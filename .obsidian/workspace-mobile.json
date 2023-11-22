@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "key.log.md",
+                "file": "Reader.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "key.log.md",
+            "file": "Reader.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "key.log.md",
+            "file": "Reader.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "key.log.md"
+            "file": "Reader.md"
           }
         }
       }
@@ -141,8 +141,8 @@
   },
   "active": "796d5b769fa2f8c5",
   "lastOpenFiles": [
-    "Reader.md",
     "key.log.md",
+    "Reader.md",
     "Images/1700423589924.png",
     "Images"
   ]
